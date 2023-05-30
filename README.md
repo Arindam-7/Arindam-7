@@ -24,7 +24,6 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 <div align="center">
 
 </br>
----
 
 
 <div align="center">
@@ -54,7 +53,7 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 
 <div>
     <div>
-        <h2 align="center"> ⚙️ Technologies I use </h2>
+        <h2 align="center"> 💻 Technologies I use </h2>
         <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postman,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express&theme=dark" />
     </div>
 </div>
