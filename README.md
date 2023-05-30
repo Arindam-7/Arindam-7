@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="../Arindam-7/gif/messagif.gif" alt="Welcome!" width="300"/>
+<img src="https://imgur.com/a/18y5xvc" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -55,7 +55,6 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 </details> -->
 
 <div>
-  <summary>💻 GitHub Profile Stats</summary>
     <div>
         <h2 align="center">📊 Github Stats</h2>
         <br />
@@ -73,7 +72,6 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 </div>
 
 <div>
-    <summary>⚙️ Technologies i use</summary>
     <div>
         <h2 align="center"> ⚙️ Technologies I use </h2>
         <img src="https://skillicons.dev/icons?i=html,css,javascript,python,postman,cpp,tailwindcss,nextjs,react,github,mongodb,github,linkedin,nodejs,git,express&theme=dark" />
