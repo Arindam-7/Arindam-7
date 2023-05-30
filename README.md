@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Arindam-7/Arindam-7/blob/main/gif/terminal3.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/Arindam-7/Arindam-7/blob/main/gif/terminal4.gif" alt="Welcome!" width="300"/>
 
 </div>
 
