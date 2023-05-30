@@ -36,25 +36,13 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 
 <div align="center">
     <a href="https://github.com/Arindam-7">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arindam-7&bg_color=75d5ff&color=ff7d78&line=0432ff&point=011892&area=true&hide_border=true" alt="graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arindam-7&bg_color=212121&color=eaeaea&line=5e5e5e&point=c0c0c0&area=true&hide_border=true" alt="graph" />
     </a>
 </div>
 
-<!-- <details>
-    <summary>💌 Contact Me</summary>
-    <div>
-        <samp>
-            <h2 align="center">😎 you can reach me at:</h2>
-            <p align="center">
-                <a href="https://www.linkedin.com/in/arin7am/" target="blank">
-                    <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-                </a>
-            </p>
-        </samp>
-    </div>
-</details> -->
 
-<div>
+<details>
+<summary> Github Stats </summary>
     <div>
         <h2 align="center">📊 Github Stats</h2>
         <br />
@@ -69,7 +57,7 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
             </a>
         </p>
     </div>
-</div>
+</details>
 
 <div>
     <div>
