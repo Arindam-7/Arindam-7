@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/18y5xvc" data-context="false" ><a href="//imgur.com/a/18y5xvc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://github.com/Arindam-7/Arindam-7/blob/main/gif/messagif.gif" alt="Welcome!" width="300"/>
 
 </div>
 
