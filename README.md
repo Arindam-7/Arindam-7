@@ -11,6 +11,9 @@
 <div align="center">
 
 Behold, dear visitor, the virtual abode of Arindam, whereupon the hallowed grounds of GitHub lie. Step forth and partake in the ethereal tapestry of code and innovation that unfurls within this repository, crafted with meticulous care by the deft hands of an esteemed fullstack developer. Welcome, and may you find inspiration and enlightenment in the depths of this digital sanctuary. <br>
+
+<br>
+
 Ask me anything <a href="https://www.linkedin.com/in/arin7am/"><b>here</b></a><br>
 or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 
