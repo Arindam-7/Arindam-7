@@ -41,7 +41,7 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 </div>
 
 
-<details>
+<details align='center'>
 <summary> Github Stats </summary>
     <div>
         <h2 align="center">📊 Github Stats</h2>
