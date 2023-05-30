@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://imgur.com/a/18y5xvc" alt="Welcome!" width="300"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/18y5xvc" data-context="false" ><a href="//imgur.com/a/18y5xvc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 </div>
 
