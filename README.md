@@ -69,9 +69,9 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 
 </div>
 
-<div> 
+<div align='center'> 
 
-<p>
+<p align='center'>
 <a href="https://komarev.com/ghpvc/?username=arindam-7">
     <img src="https://komarev.com/ghpvc/?username=arindam-7">
 </a>
