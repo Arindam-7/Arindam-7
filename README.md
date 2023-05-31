@@ -68,3 +68,14 @@ or <a href="mailto:itsnotarindam@gmail.com"><b>email</b></a> me.
 <a href="https://open.spotify.com/user/qoekpxtyym8tvk1wekuz9earn" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
+
+<div> 
+
+<p>
+<a href="https://komarev.com/ghpvc/?username=arindam-7">
+    <img src="https://komarev.com/ghpvc/?username=arindam-7">
+</a>
+<a href="https://github.com/Arindam-7?tab=followers"><img src="https://img.shields.io/github/followers/Arindam-7?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+</div>
